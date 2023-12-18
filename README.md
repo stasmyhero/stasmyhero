@@ -1,5 +1,3 @@
 Greetings, stranger!!!👋 
+My name is Stas Ermakov, i am 30 y.o fullstack developer :)
 
-My name is Stas, i am 30 y.o fullstack (prefer frontend) developer from Russia :)
-
-Welcome!
